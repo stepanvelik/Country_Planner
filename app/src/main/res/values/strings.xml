@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Country Planner</string>
+    <string name="countries_title">Страны</string>
+    <string name="search_country_hint">Поиск страны, столицы или региона</string>
+    <string name="nothing_found">Ничего не найдено</string>
+    <string name="retry">Повторить</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_favourites_only">Только избранное</string>
+</resources>
